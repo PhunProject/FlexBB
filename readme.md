@@ -40,7 +40,8 @@ Two options
 
 ## Links
 
-* Homepage: https://forkbb.ru/
+* Homepage Russian: https://forkbb.ru/
+* Homepage English: https://forkbb.com/
 * GitHub: https://github.com/forkbb/forkbb
 
 ## License
