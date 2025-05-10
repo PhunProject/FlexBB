@@ -3,6 +3,7 @@
 ## About
 
 ForkBB is a free and open source forum software. The project is based on [FluxBB_by_Visman](https://github.com/MioVisman/FluxBB_by_Visman)
+This is a fork and we will be renaming this fork to FlexBB
 
 ## Requirements
 
