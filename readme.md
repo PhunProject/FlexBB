@@ -1,4 +1,4 @@
-# ForkBB rev.86 Alpha Readme
+# FlexBB rev.01 Alpha Readme
 
 ## About
 
@@ -42,9 +42,8 @@ Two options
 
 ## Links
 
-* Homepage Russian: https://forkbb.ru/
-* Homepage English: https://forkbb.com/
-* GitHub: https://github.com/forkbb/forkbb
+* Homepage English: https://flexbb.net/
+* GitHub: https://github.com/flexbbproject/flexbb
 
 ## License
 
