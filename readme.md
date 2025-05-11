@@ -42,8 +42,8 @@ Two options
 
 ## Links
 
-* Homepage English: https://flexbb.net/
-* GitHub: https://github.com/flexbbproject/flexbb
+* Homepage English: (https://flexbb.net/)
+* GitHub: (https://github.com/flexbbproject/flexbb)
 
 ## License
 
